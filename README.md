@@ -51,6 +51,7 @@ processes.
 <p align="left">
   <b>UI:&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</b>
   <img align="center" src="images/selenide.svg" alt="selenide" height="45" width="45" />
+  <img align="center" src="images/playwright.png" alt="playwright-java" height="45" width="45" />
   <img align="center" src="images/selenoid.svg" alt="selenoid" height="45" width="45" />
 <p>
 <p align="left">
@@ -69,9 +70,10 @@ processes.
 
 ## 💻 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnel&repo=rococo)](https://github.com/arrnel/rococo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnel&repo=automation-exercise)](https://github.com/arrnel/automation-exercise)
 
 ## 📈 Development plan
-- Playwright
+- Playwright (Java) + Moon `<-- current`
 - K8s
 - Quarkus + GraalVM
 - Spring AI (by [Evgeniy Borisov](https://github.com/Jeka1978))
