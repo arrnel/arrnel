@@ -71,6 +71,7 @@ processes.
 ## 💻 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnel&repo=rococo)](https://github.com/arrnel/rococo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnel&repo=automation-exercise)](https://github.com/arrnel/automation-exercise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnel&repo=bank)](https://github.com/arrnel/bank)
 
 ## 📈 Development plan
 - Playwright (Java) + Moon `<-- current`
