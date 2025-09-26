@@ -25,7 +25,7 @@ processes.
 </p>
 
 ### Automation Testing
-
+___
 <p align="left">
   <b>Common:</b>
   <img align="center" src="images/java.svg" alt="java" height="45" width="45" />
@@ -33,13 +33,13 @@ processes.
   <img align="center" src="images/junit.svg" alt="junit" height="45" width="45" />
   <img align="center" src="images/docker.svg" alt="docker" height="45" width="45" />
   <img align="center" src="images/allure.svg" alt="allure" height="45" width="45" />
-<p>
+</p>
 <p align="left">
   <b>DB:&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</b>
   <img align="center" src="images/postgres.svg" alt="postgres" height="45" width="45" />
   <img align="center" src="images/spring-jdbc.svg" alt="spring-jdbc" height="45" width="45" />
   <img align="center" src="images/hibernate.svg" alt="hibernate" height="45" width="45" />
-<p>
+</p>
 <p align="left">
   <b>API:&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</b>
   <img align="center" src="images/retrofit.svg" alt="retrofit2" height="45" width="45" />
@@ -47,19 +47,26 @@ processes.
   <img align="center" src="images/grpc.svg" alt="gRPC" height="45" width="45" />
   <img align="center" src="images/kafka.svg" alt="kafka" height="45" width="45" />
   <img align="center" src="images/wiremock.svg" alt="wiremock" height="45" width="45" />
-<p>
+</p>
 <p align="left">
   <b>UI:&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</b>
   <img align="center" src="images/selenide.svg" alt="selenide" height="45" width="45" />
   <img align="center" src="images/playwright.png" alt="playwright-java" height="45" width="45" />
   <img align="center" src="images/selenoid.svg" alt="selenoid" height="45" width="45" />
-<p>
+</p>
 <p align="left">
   <b>CI/CD:&nbsp &nbsp &nbsp &nbsp &nbsp</b>
   <img align="center" src="images/teamcity.svg" alt="teamcity" height="45" width="45" />
   <img align="center" src="images/jenkins.svg" alt="jenkins" height="45" width="45" />
   <img align="center" src="images/gha.svg" alt="github actions" height="45" width="45" />
+</p>
+
+
+### Dev
+___
 <p>
+  <img align="center" src="images/spring-boot.svg" alt="spring-boot" height="45" width="45" />
+</p>
 
 ## 📊 Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrnel&theme=solarized_dark)
