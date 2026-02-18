@@ -77,16 +77,3 @@ processes.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arrnel&theme=solarized_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arrnel&theme=solarized_dark)
-
-
-## 💻 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnel&repo=rococo)](https://github.com/arrnel/rococo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnel&repo=automation-exercise)](https://github.com/arrnel/automation-exercise)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnel&repo=bank)](https://github.com/arrnel/bank)
-
-## 📈 Development plan
-- Playwright (Java) + Moon `<-- current`
-- K8s
-- Quarkus + GraalVM
-- Spring AI (by [Evgeniy Borisov](https://github.com/Jeka1978))
-- New Programming Language
