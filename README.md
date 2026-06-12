@@ -72,7 +72,7 @@ processes.
 </p>
 
 ## 📊 Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrnel&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqadima&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arrnel&theme=solarized_dark) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arrnel&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqadima&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqadima&theme=solarized_dark)
