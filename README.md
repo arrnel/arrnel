@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://arrnel.github.io/" target="_blank">Dmitriy</a> </h1>
+<h1 align="center">Hi there, I'm <a href="https://aqadima.github.io/" target="_blank">Dmitriy</a> </h1>
 <h3 align="center">QA Automation Engineer</h3>
 I'm a QA engineer and UI/API automation specialist with experience since 2019. Passionate about building robust testing
 frameworks and currently learning Spring Boot development. My goal is to ensure software quality and streamline testing 
@@ -6,9 +6,8 @@ processes.
 
 ## 🤙🏻 Connect with me:
 <p align="left"> 
-<a href="https://t.me/arrnel" target="blank"><img src="images/telegram.svg" alt="telegram" height="45" width="45" /></a>
-<a href="mailto:arrnel@vk.com" target="blank"><img src="images/mail.svg" alt="email" height="45" width="45" /></a>
-<a href="https://open.spotify.com/user/31ax7l6z2sj67iozrugru564l4sq" target="blank"><img src="images/spotify.svg" alt="spotify" height="45" width="45" /></a>
+<a href="https://t.me/aqa_dima" target="blank"><img src="images/telegram.svg" alt="telegram" height="45" width="45" /></a>
+<a href="mailto:aqa.dima@vk.com" target="blank"><img src="images/mail.svg" alt="email" height="45" width="45" /></a>
 </p>
 
 ## ⚒️ Skills
