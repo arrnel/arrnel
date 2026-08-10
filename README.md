@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://aqadima.github.io/" target="_blank">Dmitriy</a> </h1>
+<h1 align="center">Hi there, I'm <a href="https://aqa-dimqa.github.io/" target="_blank">Dmitriy</a> </h1>
 <h3 align="center">QA Automation Engineer</h3>
 I'm a QA engineer and UI/API automation specialist with experience since 2019. Passionate about building robust testing
 frameworks and currently learning Spring Boot development. My goal is to ensure software quality and streamline testing 
@@ -72,7 +72,7 @@ processes.
 </p>
 
 ## 📊 Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqadima&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqa-dimqa&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqadima&theme=solarized_dark) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqadima&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqa-dimqa&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqa-dimqa&theme=solarized_dark)
